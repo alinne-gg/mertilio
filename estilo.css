@@ -1,0 +1,19 @@
+/*ARQUIVO estilo.css box-model*/
+
+*{margin: 0px;/*margens externas*/
+padding: 0px;/*margens internas*/
+}
+
+*{
+box-sizing:border-box;
+}
+
+.box{
+width:1000px;
+height:700px;
+border:dotted 10px rgba (2,2,2,2.7);/*borda pontilhada*/
+margin:3%auto;
+padding:0px;
+/*padding:30px 0px;*/
+text-align:justify:
+}
